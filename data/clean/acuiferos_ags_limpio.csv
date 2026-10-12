@@ -1,0 +1,6 @@
+﻿clave,acuifero,recarga_hm3,dnc_hm3,extraccion_hm3,dma_hm3,documento,ratio_extraccion_recarga,sobreexplotado
+0101,Valle De Aguascalientes,249.6,2.4,342.958309,-95.758309,DR_0101,1.37,True
+0102,Valle De Chicalote,35.0,0.0,48.796081,-13.796081,DR_0102,1.39,True
+0103,El Llano,15.0,3.0,18.257537,-6.257537,DR_0103,1.22,True
+0104,Venadero,1.9,0.9,1.733406,-0.733406,DR_0104,0.91,True
+0105,Valle De Calvillo,25.0,2.0,40.710928,-17.710928,DR_0105,1.63,True
