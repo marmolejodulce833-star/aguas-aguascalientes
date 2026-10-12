@@ -1,0 +1,12 @@
+﻿DISPONIBILIDAD POR ACUÍFERO,,,,,,
+Los siguiente valores se utilizan en la información de cada acuífero.,,,,,,
+Disponibilidad Media Anual de Agua Subterránea (DMA),,,,,,
+Descarga Natural Comprometida (DNC),,,,,,
+Recarga Media Anual (R),,,,,,
+Volumen de Extracción de Aguas Subterráneas (VEAS),,,,,,
+CLAVE,ACUÍFERO,R,DNC,VEAS,DMA,DOCUMENTO
+101,VALLE DE AGUASCALIENTES,249.6,2.4,342.958309,-95.758309,DR_0101
+102,VALLE DE CHICALOTE,35,0,48.796081,-13.796081,DR_0102
+103,EL LLANO,15,3,18.257537,-6.257537,DR_0103
+104,VENADERO,1.9,0.9,1.733406,-0.733406,DR_0104
+105,VALLE DE CALVILLO,25,2,40.710928,-17.710928,DR_0105
